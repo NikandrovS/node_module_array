@@ -1,0 +1,19 @@
+{
+  "name": "tt",
+  "version": "1.0.0",
+  "description": "t.t.t.t",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "node.js",
+    "mocha"
+  ],
+  "author": "sn",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.0.3",
+    "trend-tech-task": "^1.0.0"
+  }
+}
